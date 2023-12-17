@@ -45,4 +45,20 @@
   - Gyroscope
   - Fall detection
 
+
+### Fitness trackers
+
+* Various monitoring capabilities
+  - Heart rate [^2]
+  - Blood oxygen
+  - Step count
+  - Sleep quality/time
+  - Elevation
+* Most are waterproof
+* OLED displays are common
+* May include GPS
+
+
+
 [^1]: Rapidly changing
+[^2]: Via photoplethysmogram (PPG). An optical method. Measures blood flow using reflective light signals. Not as accurate, but averages overtime.
