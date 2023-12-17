@@ -59,6 +59,28 @@
 * May include GPS
 
 
+### Virtual/Augmented/Mixed Reality headsets
+
+**VR** - A head-mounted display that shows you immersive, 3D, and fully computer generated environment. The generated world may be created using real world content (e.g. images, synthetic content[^3]),but it bears no relation to the user's environment, hence virtual.
+
+**AR** - A head-mounted display that lets you see your real surroundings augmented by a computer (e.g. with superimposed images, sound, position data). An example of AR would be an app that shows you how you look like with a new pair of glasses.
+
+**MR** - Similar to AR but allows interaction between the actual world and the computer generated content, e.g. [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens).
+
+
+* Mobile
+  - Put your smartphone inside
+  - Smartphone performs the processing
+  - Less expensive
+* Tethered
+  - Connect to PC via cable
+  - PC performs the processing
+  - More expensive
+  - Higher performance
+* Standalone
+  - Has its own processing power
+
 
 [^1]: Rapidly changing
 [^2]: Via photoplethysmogram (PPG). An optical method. Measures blood flow using reflective light signals. Not as accurate, but averages overtime.
+[^3]: AI generated
