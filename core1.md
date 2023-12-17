@@ -1,3 +1,3 @@
 # Core 1
 
-[Wearable devices](modules/wearable-devices.md)
+[Mobile devices](modules/mobile-devices.md)
