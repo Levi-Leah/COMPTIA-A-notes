@@ -2,4 +2,4 @@
 
 modules/wearable-devices.md
 
-[Wearable devices](wearable-devices.md)
+[Wearable devices](modules/wearable-devices.md)
