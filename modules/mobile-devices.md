@@ -1,4 +1,4 @@
-# Wearable devices
+# Mobile devices
 
 ## Types of mobile device
 
@@ -25,7 +25,7 @@
 * Typically personal, not business^[Rapidly changing]
 * Most connect to a phone, to cloud/internet, or to both
 
-## Smart watched
+### Smart watched
 
 * Operating system
   - WatchOS, WearOS
