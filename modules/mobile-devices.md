@@ -18,11 +18,11 @@
 
 ## Wearable technology characteristics
 
-* Typically specialized^[Rapidly changing]
+* Typically specialized[^1]
   -  e.g. fitness
 * Rugged construction
   - Expected to work outside with various weather conditions
-* Typically personal, not business^[Rapidly changing]
+* Typically personal, not business[^1]
 * Most connect to a phone, to cloud/internet, or to both
 
 ### Smart watched
@@ -44,3 +44,5 @@
   - Accelerator
   - Gyroscope
   - Fall detection
+
+[^1]: Rapidly changing
