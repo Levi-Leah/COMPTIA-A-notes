@@ -12,8 +12,9 @@
 
 ## Mobile devices size continuum
 ```
-     Wearable   Smartphones   Tablets/e-readers    Laptops/hybrids
-<=============|=============|===================|=====================>
+        Wearable   Smartphones   Tablets/e-readers    Laptops/hybrids
+    <=============|=============|===================|=====================>
+Smallest                                                               Largest
 ```
 
 ## Wearable technology characteristics
@@ -68,6 +69,7 @@
 **MR** - Similar to AR but allows interaction between the actual world and the computer generated content, e.g. [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens).
 
 
+VR/AR/MR can be:
 * Mobile
   - Put your smartphone inside
   - Smartphone performs the processing
@@ -79,6 +81,9 @@
   - Higher performance
 * Standalone
   - Has its own processing power
+
+
+## Smartphones
 
 
 [^1]: Rapidly changing
