@@ -1,17 +1,27 @@
 # Mobile devices
 
+- [Mobile devices](#mobile-devices)
+  - [Types of mobile device](#types-of-mobile-device)
+  - [Mobile devices size continuum](#mobile-devices-size-continuum)
+  - [Wearable technology characteristics](#wearable-technology-characteristics)
+    - [Smart watched](#smart-watched)
+    - [Fitness trackers](#fitness-trackers)
+    - [Virtual/Augmented/Mixed Reality headsets](#virtualaugmentedmixed-reality-headsets)
+  - [Smartphones](#smartphones)
+
 ## Types of mobile device
 
-* Wearable technology
+- Wearable technology
   - Smart watches
   - Fitness trackers
   - Virtual reality gear
-* Smartphones
-* Tablets
-* Laptops and hybrids
+- Smartphones
+- Tablets
+- Laptops and hybrids
 
 ## Mobile devices size continuum
-```
+
+```[ascii]
         Wearable   Smartphones   Tablets/e-readers    Laptops/hybrids
     <=============|=============|===================|=====================>
 Smallest                                                               Largest
@@ -19,26 +29,26 @@ Smallest                                                               Largest
 
 ## Wearable technology characteristics
 
-* Typically specialized[^1]
-  -  e.g. fitness
-* Rugged construction
+- Typically specialized[^1]
+  - e.g. fitness
+- Rugged construction
   - Expected to work outside with various weather conditions
-* Typically personal, not business[^1]
-* Most connect to a phone, to cloud/internet, or to both
+- Typically personal, not business[^1]
+- Most connect to a phone, to cloud/internet, or to both
 
 ### Smart watched
 
-* Operating system
+- Operating system
   - WatchOS, WearOS
-* Connectivity
+- Connectivity
   - Pairs with companion devices
     - e.g. smartphones
     - May have Wi-FIi, Bluetooth, cellular
-* Useful for notifications
+- Useful for notifications
   - e.g. calls, texts, emails, social media
-* LCD or OLED displays
-* Touch screen and/or buttons/crown controls
-* Features may include:
+- LCD or OLED displays
+- Touch screen and/or buttons/crown controls
+- Features may include:
   - Heart rate monitor
   - LTE
   - NFC
@@ -46,19 +56,17 @@ Smallest                                                               Largest
   - Gyroscope
   - Fall detection
 
-
 ### Fitness trackers
 
-* Various monitoring capabilities
+- Various monitoring capabilities
   - Heart rate [^2]
   - Blood oxygen
   - Step count
   - Sleep quality/time
   - Elevation
-* Most are waterproof
-* OLED displays are common
-* May include GPS
-
+- Most are waterproof
+- OLED displays are common
+- May include GPS
 
 ### Virtual/Augmented/Mixed Reality headsets
 
@@ -68,23 +76,21 @@ Smallest                                                               Largest
 
 **MR** - Similar to AR but allows interaction between the actual world and the computer generated content, e.g. [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens).
 
-
 VR/AR/MR can be:
-* Mobile
+
+- Mobile
   - Put your smartphone inside
   - Smartphone performs the processing
   - Less expensive
-* Tethered
+- Tethered
   - Connect to PC via cable
   - PC performs the processing
   - More expensive
   - Higher performance
-* Standalone
+- Standalone
   - Has its own processing power
 
-
 ## Smartphones
-
 
 [^1]: Rapidly changing
 [^2]: Via photoplethysmogram (PPG). An optical method. Measures blood flow using reflective light signals. Not as accurate, but averages overtime.
