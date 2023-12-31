@@ -1,6 +1,6 @@
-# Computer basics
+# How people use computers
 
-- [Computer basics](#computer-basics)
+- [How people use computers](#how-people-use-computers)
   - [Computer features](#computer-features)
   - [General purpose vs dedicated computing devices](#general-purpose-vs-dedicated-computing-devices)
   - [Operating systems](#operating-systems)
