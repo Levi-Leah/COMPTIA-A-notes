@@ -5,10 +5,12 @@ Notes for CompTIA IT Fundamentals+ FC0-U61 exam based on [Jon Tabor's YouTube se
 <!-- Should probably delete this module -->
 <!-- [Hardware, Software, and Networking](modules/hardware-software-networking.md) -->
 
-## [Part 1: Computer Basics](modules/computer-basics.md)
+## Part 1: Computer Basics
 
-## System hardware
+- [How people use computers](modules/how-people-use-computers.md)
 
-## Device ports and peripherals
+- [System hardware](modules/system-hardware.md)
 
-## Data storage and sharing
+- Device ports and peripherals
+
+- Data storage and sharing
