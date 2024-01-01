@@ -18,6 +18,8 @@
     - Smart cars
     - Security cameras
     - Home appliances
+    - Medical devices used for monitoring patients
+    - Baby monitors
 - Processor
   - Super fast electronic calculator that can execute computations based on the programming
 - Programming
@@ -45,16 +47,18 @@
 
 ## General purpose vs dedicated computing devices
 
-- Multi-user computers
+- **Multi-user computers**
   - Mainframes
-    - Large multitask machines
+    - Large multitask machines capable of supporting thousands of user sessions at the same time. Each with its own programs and files
   - Minicomputers
     - Small multitask machines
+    - Smaller version of mainframes
   - Supercomputers
-    - Machines focused on a single task
+    - Focused the power of a mainframe computer on a single task
     - Used for massive number crunching
-      - Geothermal data, CGI movie effects, census
-- Dedicated computers
+      - Geothermal data, CGI movie effects, census tallying
+- **Dedicated computers**
+  : sometimes called microcomputers
   - Desktops
   - Laptops/portable
 
@@ -62,17 +66,19 @@
 
 ## Operating systems
 
-- Basis for user interaction
-- Enable apps to run
-- Designed for specific hardware
-  - Windows runs on IBM/Intel
-  - Apple runs on Macintosh
+- Runs the device
+- Supports apps
+- Defines how users can interact with the machine
+- Hardware defines what OS you can run
+  - Windows runs on IBM/Intel platform
+  - Apple runs on Macintosh platform
 - GUI vs CLI
 - ~~Skipping Windows, Apple, Linux OSs cause self-explanatory~~
 - ChromeOS by Google
   - Linux variant
   - Designed for thin clients
     - Minimal computers designed for internet only
+      - Can't run certain apps, so you need to use web-based versions (e.g. Office)
     - Has very little storage, most storage is in the cloud
 
 ---
@@ -81,10 +87,13 @@
 
 - Smartphones
   - iOS
-  - Android
-  - BlackBerry (mostly dead)
+    - iPhone and iPad
+  - Android OS
+  - BlackBerry OS (mostly dead)
     - Distinct feature was it's hardware keyboard
   - Windows Phones (so very dead)
+    - Windows RT for tables for a thing for a while but is now discontinued
+    - Tablets now use Windows 10 Mobile
 - Tablets
   - Mostly you can't call or text from a tabled
     - Exception: phablets
@@ -92,24 +101,20 @@
   - Android
 - Specialty devices
   - Created for specific task
-    - Reading, calculating, maps
+    - E-readers, scientific calculators, GPS navigators
 
 ---
 
 ## Networks
 
-- Network is two or more computers communicating
-- To connect computers you need a **switch**
-  - e.g. **router**, that often acts as wireless access point (WAP)
-  - Physically connects computers with cables or cords
-  - Allows computers to communicate with other networks outside the current one
-  - Data can be shared via phone line, DSL connection, cable TV lines, network cables, etc.
-
----
-
-- Local area network (LAN)
+- Local area network (**LAN**)
   - Two or more computers connected in a single location (e.g. school, office, home)
-- Wide area network (WAN)
+    - Wired LANs connect via network cables and **switches**
+      - Certain types of switches - **routers** - allow computers to communicate with non local networks
+        - Routers can send data via phone line, DSL connection, cable TV lines, network cables, etc.
+    - Wireless LANs use radio waves
+      - Computers on wireless network connect via a wireless access point (**WAP**)
+- Wide area network (**WAN**)
   - Two or more LANs connected together
 
     ```[ascii]
@@ -130,8 +135,8 @@
 - Servers
   - Machines that fulfill specific roles on computer network
     - e.g. file, app, mail, print server
-- Clients
-  - Machine that receives services
+  - Clients
+    : machine that receives services
 - Recourse sharing
   - Allows you to share resources instead of having multiple
     - e.g. connect all computers to one printer
@@ -154,14 +159,18 @@
 - Subscription software 
   - Often cheaper than buying a full version
   - Automated updates
-- Minimizes the need to download locally
+  - Minimizes the need to download locally
+- Many cloud-based services are collaborative
+  - Enable multiple people to work on the same data and see each other's changes
 
 ---
 
 ## Virtualization
 
 - Running a system inside of another system
-  - VMs
+  - Host OS
+  - Guest OS
+    - VMs
 - Used A LOT in networking
 - Can save companies money on hardware and maintenance
 - Hypervisors
@@ -173,6 +182,7 @@
   - Type 2
     - Requires an OS
     - You run it as an app
+      - VMware, VirtualBox, QEMU, etc.
       - Can slow down your system cause there's a lot of other stuff running
 
 ---
@@ -185,8 +195,11 @@
   - ATMs
     - Uses multi-factor authentication
   - GPS
-    - Outdated devices that determine your position based on satellites
-    - Wherever you are, the GPS unit has access to at least 4 satellites and can determine your position (within a few feet) based on the speed of light
+    - Any location on earth has access to at least 4 satellites at any given time
+    - GPS receiver unit registers data from at least 3 satellites
+    - It calculates how far it is from ech satellite by determining how long it took for the signal (traveling at the speed of light) to arrive
+    - Based on that it calculates 2D position (longitude and latitude)
+    - Accurate to within a few feet
   - Voice over IP (VoIP)
     - Teleconference
       - Simulates in-person meeting environment
