@@ -10,6 +10,7 @@
       - [Cache](#cache)
   - [Cooling](#cooling)
   - [RAM](#ram)
+  - [Motherboards](#motherboards)
 
 ## Hardware categories
 
@@ -207,3 +208,46 @@
   - Adjusting virtual machine compute power is called vertical scaling, scaling up, or scaling down.
 
 ---
+
+## Motherboards
+
+- Essential for the computing process
+- Connects all computer components
+- Provides pathways (buses) between memory slots, CPU socket, input/output ports, and built-in devices (network and sound adapters)
+- Has an intelligent controller (the chipset) to manage traffic and bus speeds
+
+---
+
+- **Motherboard Form Factors**
+
+  - Motherboards come in various sizes and shapes, known as form factors
+  - Fit into different kinds of cases for mobile devices, desktops, or servers
+  - Common form factors
+    - ATX
+      - Full-size motherboard for larger desktops
+    - microATX
+      - For smaller systems
+    - Mini-ITX
+      - For even smaller or specialty systems
+  - Motherboards have different form factors for connectivity
+
+- **Motherboard Features**
+
+  - **CPUs Supported**:
+    - Support a specific range of CPUs based on chip attributes (e.g., pin number)
+      - e.g. compatible with either Intel or AMD, not interchangeable
+  - **RAM Supported**:
+    - Support specific types of RAM (e.g., DDR3, DDR4) with defined min and max capacity limits
+  - **Built-in Components**:
+    - May include on-board audio, video, and network support
+    - Built-in components save the need for separate expansion cards
+  - **Expansion Slots**:
+    - Slots for adding expansion cards
+    - Different technologies for slots
+      - Most common is PCI Express (PCIe) technology
+  - **Firmware**:
+    - Set of programs stored on a chip (not CPU) to update the motherboard
+      - Modern systems come with Unified extensible firmware interface (UEFI)
+      - Older systems use Basic input output system (BIOS)
+  - **Special Features**:
+    - High-quality boards might include special storage controllers, extra security, and virtualization support
