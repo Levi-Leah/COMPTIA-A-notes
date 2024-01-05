@@ -11,6 +11,7 @@
   - [Cooling](#cooling)
   - [RAM](#ram)
   - [Motherboards](#motherboards)
+  - [Power Supplies](#power-supplies)
 
 ## Hardware categories
 
@@ -251,3 +252,33 @@
       - Older systems use Basic input output system (BIOS)
   - **Special Features**:
     - High-quality boards might include special storage controllers, extra security, and virtualization support
+
+## Power Supplies
+
+- Power Supply Unit (PSU)
+- Located in a case corner as a big metal box with multicolored wire bundles
+- Provides power to components like the motherboard, disk drives, etc.
+- Converts AC power from the outlet to DC power for computer components
+  - DC current has fixed polarity (positive or negative), unlike alternating AC current
+- Decreases the voltage
+  - from 110V to between +2V and +12V
+- Laptops use an external power cord with a transformer block (brick)
+  - The block converts and steps down voltage, and the motherboard distributes power
+- In cloud computing, hardware management is the provider's responsibility, not the user's
+
+- **Power Supply Connectors**
+
+  - Main connector (20 or 24-wire) known as P1 or ATX connector, connects to the motherboard
+  - Motherboard distributes power to built-in components, CPU, and RAM slots
+  - Some systems have an additional 12-volt P4 connector
+  - Higher-end motherboards might need an eight-wire power connector
+
+- **Wire Color Significance**
+
+  - Not on the exam
+  - Red wires: +5 V power
+  - White wires: –5 V
+  - Yellow wires: +12 V
+  - Orange wires: +3.3 V
+  - Black wires: Ground
+  - Different connectors serve various purposes (e.g., for drives, motherboard connections)
