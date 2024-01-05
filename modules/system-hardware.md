@@ -9,6 +9,7 @@
       - [Program handling](#program-handling)
       - [Cache](#cache)
   - [Cooling](#cooling)
+  - [RAM](#ram)
 
 ## Hardware categories
 
@@ -147,3 +148,62 @@
       - Sealed tubing for liquid flow
       - Pump circulates liquid, transferring heat to a reservoir
       - Reservoir may have a fan-cooled radiator
+
+---
+
+## RAM
+
+- Random access memory
+  - RAM is temporary memory vs hard drive is permanent memory
+  - Every time you turn the computer off it flushes the memory
+  - RAM vs ROM (Read-Only Memory)
+    - ROM is nonvolatile and retains information when powered off
+- System RAM refers to memory serving the computer as a whole
+- RAM allows data to be read from any section, not sequentially
+- The table keeps track of what's stored where
+
+- Many different types of RAM
+  - **Dynamic RAM (DRAM)**
+    : Used for system RAM
+    - Needs constant refreshing
+    - Data is lost when power is off
+
+- Types of RAM in a computer
+  - **DIMMs**
+    :Dual Inline Memory Modules
+  - **SODIMMs**
+    - Laptops use Small Outline DIMMs
+  - DIMMs and SODIMMs have metal tabs called pins
+    - Different types of RAM have different number of pins so they fit in particular slots
+    - Different physically and in how they operate
+- **RAM Capacity**
+  - Motherboard determines the capacity of RAM it can handle
+  - DIMM capacities range from 1 GB to 16 GB in typical desktops
+  - RAM should not be mixed
+    - e.g. don't mix up 8GB with 16GB
+
+- **RAM Technologies and Speeds**
+  - **Single Data Rate (SDR) RAM**:
+    - Mostly obsolete
+    - Synchronized with the motherboard
+      - Performs one operation per system timer tick
+        - Millions of ticks per second
+    - 168 pins on a DIMM
+
+  - **Double Data Rate (DDR) RAM**:
+    - Sends or receives data twice per clock tick on the motherboard
+    - Apart from capacity, RAM has sped rating:
+      - DDR, DDR2, DDR3, DDR4
+      - Each version is faster and more efficient than the last
+      - DDR has 184 pins, DDR2 and DDR3 have 240 pins (different notches though), DDR4 has 288 pins
+      - Generations are not interchangeable due to different pin arrangements and slots
+
+  - DDR RAM and DDR SDRAM are synonymous.
+    - "SDRAM" implies synchronous operation, and all DDR RAM is synchronous
+
+- **Virtual Machines**
+  - RAM amount can be specified in virtual machines.
+  - CPU and RAM together are known as compute power.
+  - Adjusting virtual machine compute power is called vertical scaling, scaling up, or scaling down.
+
+---
