@@ -15,6 +15,6 @@ Notes for CompTIA IT Fundamentals+ FC0-U61 exam based on:
 
 - [System hardware](modules/system-hardware.md)
 
-- Device ports and peripherals
+- [Device ports and peripherals](modules/device-ports-and-peripherals.md)
 
 - Data storage and sharing
