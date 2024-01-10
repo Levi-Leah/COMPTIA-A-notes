@@ -18,14 +18,14 @@
   - Serves as a graphics processor interface
   - Important for high-performance graphics tasks
 
-    ![Video Card](images/video-card.jpg)
+    <img src="images/video-card.jpg" width="500"/>
 
 - **Audio (Sound) Card**:
   - Provides ports for audio input and output devices
     - Speakers, headphones, and microphones
   - Most sound ports are round 3.5-mm connectors
 
-    ![Audio Card](images/audio-card.webp)
+    <img src="images/audio-card.webp" width="500"/>
 
 - **Network Interface Card (NIC)**:
   - Enables connection to a local area network (LAN)
@@ -36,7 +36,7 @@
   - Each NIC has a unique 48-bit hexadecimal Media Access Control (MAC) address
   - > Network adapters, whether built into the motherboard or as expansion cards, are often referred to as NICs. The term NIC refers to the functionality rather than the physical card.
 
-    ![NIC Card](images/Network-Interface-Card-NIC.png)
+    <img src="images/Network-Interface-Card-NIC.png" width="500"/>
 
 - **Modem Card**:
   - Used for dial-up Internet access via telephone landlines
@@ -45,7 +45,7 @@
     - High-speed cable
     - DSL Internet connectivity
 
-    ![Modem Card](images/RJ-11-PCI-Modem-Card.jpeg)
+    <img src="images/RJ-11-PCI-Modem-Card.jpeg" width="500"/>
 
 ## Expansion Slot Types
 
@@ -79,7 +79,7 @@
 - **Mini-PCIe**
   - Mostly used in laptops
 
-![PCI and PCIe slot](images/pcie-slots.webp)
+<img src="images/pcie-slots.webp" width="500"/>
 
 ### Other Slot Types
 
