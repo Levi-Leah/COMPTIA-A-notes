@@ -10,6 +10,11 @@
   - [Monitors](#monitors)
     - [Monitor Types](#monitor-types)
     - [Monitor Ports and Connectors](#monitor-ports-and-connectors)
+  - [Standard Input Devices](#standard-input-devices)
+    - [Keyboards](#keyboards)
+    - [Pointing Devices](#pointing-devices)
+  - [Other Common I/O Devices](#other-common-io-devices)
+    - [Audio Devices](#audio-devices)
 
 ## Expansion Cards
 
@@ -249,6 +254,17 @@
     - Expensive to replace
   - Modern projectors support wireless connectivity (Bluetooth, Wi-Fi)
 
+- **Touchscreens**
+  - Function as both input and output devices
+  - Include a digitizer for touch sensitivity
+  - **Resistive**
+    - 2 sheets of flexible plastic
+      - When pressed, create an electric signal
+    - Anything you touch it with creates a signal
+  - **Capacitive**
+    - Glass surface
+    - Uses electric properties of the human body
+
 ### Monitor Ports and Connectors
 
 <img src="images/monitor-ports-feature.jpg" width="500"/>
@@ -307,7 +323,7 @@
   - Uses three RCA cables (red, green, blue)
   - Less common for PC monitors, more typical for TVs
 
-    <img src="images/component-video-connector.png" width="500"/>  
+    <img src="images/component-video-connector.png" width="500"/>
 
 - **DisplayPort, Mini DisplayPort, and Thunderbolt**
   - Primarily found on Macintosh computers
@@ -319,13 +335,46 @@
   - With an adapter, USB can connect to monitors
   - Often used for projectors
 
-- **Touchscreens**
-  - Function as both input and output devices
-  - Include a digitizer for touch sensitivity
-  - **Resistive**
-    - 2 sheets of flexible plastic
-      - When pressed, create an electric signal
-    - Anything you touch it with creates a signal
-  - **Capacitive**
-    - Glass surface
-    - Uses electric properties of the human body
+## Standard Input Devices
+
+### Keyboards
+
+- Primary input device for text input and command issuance via shortcuts
+- Standard layout: QWERTY
+- Connection types
+  - USB Type-A
+  - PS/2 connector for older keyboards
+  - Wireless keyboards use a USB receiver and radio frequency (RF) communication
+- Power
+  - Wired keyboards are powered by the connection
+  - Wireless keyboards require batteries
+
+### Pointing Devices
+
+- Devices like mice, trackballs, touchpads, drawing tablets, and joysticks for screen cursor control
+- Standard mouse: Two buttons and a scroll wheel
+- Connection types
+  - USB Type-A
+  - PS/2 connector for older mice
+
+## Other Common I/O Devices
+
+### Audio Devices
+
+- Modern computers have built-in sound controllers on the motherboard
+- Older systems required add-on sound cards
+- Ports: Commonly three 3.5-mm audio jacks, more complex systems have five or six
+  - 3.5-mm audio connectors are common in portable media devices, differing from full-size headphone jacks in home audio equipment
+  - Each jack usually has a specific function (input/output), sometimes auto-detected
+  - Color-coding scheme for identifying audio jack functions
+    - Green: main speakers/headphones
+    - Pink: microphone
+    - Blue: line in, where you bring sound from an external device
+    - Orange: subbuffer
+    - Black: rear speakers/surround sound
+    - Grey: middle surround sound
+      <img src="images/sound-jack-color.jpeg" width="500"/>
+- Bluetooth and Wi-Fi for wireless audio connectivity
+  - Bluetooth: Shorter range, no IP address needed
+  - Wi-Fi: Longer range, can play audio remotely (e.g., from another country)
+
