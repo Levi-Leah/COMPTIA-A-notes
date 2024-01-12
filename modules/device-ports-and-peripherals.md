@@ -5,7 +5,6 @@
   - [Expansion Slot Types](#expansion-slot-types)
   - [Common Ports and Connectors](#common-ports-and-connectors)
     - [USB (Universal Serial Bus)](#usb-universal-serial-bus)
-      - [USB Generations and Speeds](#usb-generations-and-speeds)
       - [USB Connector Types](#usb-connector-types)
     - [Other Peripheral Ports and Connectors](#other-peripheral-ports-and-connectors)
 
@@ -92,11 +91,7 @@
 - Industry-standard connector for a wide variety of peripherals
 - Carries both data and power
 - Used to connect and charge small electronics
-
-#### USB Generations and Speeds
-
 - Interchangeable and backwards compatible
-
 - **USB 2.0**:
   - Regular USB
     - Up to 1.5 Mbps (low speed) or 12 Mbps (full speed)
