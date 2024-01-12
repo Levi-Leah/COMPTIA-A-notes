@@ -9,6 +9,7 @@
     - [Other Peripheral Ports and Connectors](#other-peripheral-ports-and-connectors)
   - [Monitors](#monitors)
     - [Monitor Types](#monitor-types)
+    - [Monitor Ports and Connectors](#monitor-ports-and-connectors)
 
 ## Expansion Cards
 
@@ -247,3 +248,84 @@
   - Projector lamps generate light and heat, have a fan for cooling
     - Expensive to replace
   - Modern projectors support wireless connectivity (Bluetooth, Wi-Fi)
+
+### Monitor Ports and Connectors
+
+<img src="images/monitor-ports-feature.jpg" width="500"/>
+
+- Video-only connectors:
+  - VGA
+  - DVI
+- Video and audio connectors:
+  - HDMI
+  - S-Video
+  - Thunderbolt
+  - DisplayPort
+  - Multi-cable
+    - Composite
+    - Component
+
+- **DVI**
+  - Digital Visual Interface
+  - Common connector types:
+    - DVI-D (digital)
+    - DVI-A (analog)
+    - DVI-I (integrates digital and analog)
+  - Not always digital despite the name
+  - Older connector
+
+- **HDMI**
+  - High Definition Multimedia Interface
+  - Standard for television and increasingly common in monitors
+  - Handles both video and audio signals
+  - Common connector types:
+    - Full-size Type-A
+    - Mini Type-C
+
+- **VGA**
+  - Video Graphics Array
+  - Oldest video connector still in use
+  - Analog connector with 15 pins in three rows
+    - Doesn't carry any digital signal
+  - Use when DVI and HDMI are not available
+
+- **Composite Video**
+  - Round yellow RCA connector, often paired with red and white RCA connectors for audio
+  - Not ideal for PC use due to lower resolution support
+
+    <img src="images/composite-connector.jpeg" width="500"/>  
+
+- **S-Video**
+  - Round plug with four pins
+  - Better quality than composite video but lower than component video
+  - Carries both audio and video signals
+
+    <img src="images/s-video-connector.png" width="500"/>
+
+- **Component (RGB) Video**
+  - Analog signal with separate channels for video components
+  - Uses three RCA cables (red, green, blue)
+  - Less common for PC monitors, more typical for TVs
+
+    <img src="images/component-video-connector.png" width="500"/>  
+
+- **DisplayPort, Mini DisplayPort, and Thunderbolt**
+  - Primarily found on Macintosh computers
+  - Support high-definition video and audio
+  - DisplayPort aimed to replace VGA but overshadowed by HDMI
+  - Thunderbolt and Mini DisplayPort are physically identical
+
+- **USB for Monitors**
+  - With an adapter, USB can connect to monitors
+  - Often used for projectors
+
+- **Touchscreens**
+  - Function as both input and output devices
+  - Include a digitizer for touch sensitivity
+  - **Resistive**
+    - 2 sheets of flexible plastic
+      - When pressed, create an electric signal
+    - Anything you touch it with creates a signal
+  - **Capacitive**
+    - Glass surface
+    - Uses electric properties of the human body
