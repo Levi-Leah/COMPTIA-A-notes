@@ -5,8 +5,9 @@
   - [Expansion Slot Types](#expansion-slot-types)
   - [Common Ports and Connectors](#common-ports-and-connectors)
     - [USB (Universal Serial Bus)](#usb-universal-serial-bus)
-    - [USB Generations and Speeds](#usb-generations-and-speeds)
-    - [USB Connector Types](#usb-connector-types)
+      - [USB Generations and Speeds](#usb-generations-and-speeds)
+      - [USB Connector Types](#usb-connector-types)
+    - [Other Peripheral Ports and Connectors](#other-peripheral-ports-and-connectors)
 
 ## Expansion Cards
 
@@ -92,7 +93,7 @@
 - Carries both data and power
 - Used to connect and charge small electronics
 
-### USB Generations and Speeds
+#### USB Generations and Speeds
 
 - Interchangeable and backwards compatible
 
@@ -115,10 +116,9 @@
   - USB 3.2
     - ApproximUp to 20 Gbps
 
-
   <img src="images/USB_ports_by_color.webp" width="500"/>
 
-### USB Connector Types
+#### USB Connector Types
 
 - **Type-A**
   - Standard rectangular USB ports on most PCs and USB cables
@@ -138,3 +138,68 @@
   - Apple's proprietary charging device
 
     <img src="images/usb-types.webp" width="500"/>
+
+### Other Peripheral Ports and Connectors
+
+>Relative speeds:
+>
+>Thunderbolt > USB > FireWire > eSATA
+
+<img src="images/connectors.png" width="500"/>
+
+- **Thunderbolt**
+  - Primarily used on MACs to connect monitors
+  - Supports a variety of peripherals and daisy-chaining up to six devices
+  - **Thunderbolt 1**
+    - 10 Gbps, uses Mini DisplayPort connector
+  - **Thunderbolt 2**
+    - 20 Gbps, also uses Mini DisplayPort connector
+  - **Thunderbolt 3**
+    - 40 Gbps, uses USB 3.1 Type-C connector
+
+- **FireWire (IEEE 1394)**
+  - Becoming obsolete
+  - Commonly used with digital cameras, media devices, and external hard drives
+  - **FireWire 400**
+    - 400 Mbps
+  - **FireWire 800**
+    - 800 Mbps
+
+- **eSATA**
+  - Becoming obsolete
+  - For external SATA storage devices like external hard drives
+  - Not interchangeable with USB or plain SATA
+  - Speeds: 1.5, 3, or 6 Gbps
+
+- **RJ-45**
+  - Ethernet networking connector
+  - Visible metal pins inside
+  - Transparent rectangular plastic connector
+  - Has a release tab on top
+
+- **RJ-11**
+  - Used for traditional modems and landline telephones
+  - Smaller version of RJ-45 connector
+  - Less common
+
+- **3.5-mm Audio**
+  - Commonly used for microphones, headphones, and speakers
+  - Similar to a small headphone jack
+  - Often color-coded
+
+- **PS/2**
+  - Round plugs for older mice and keyboards with a bunch of pins inside
+    - Green for mouse, purple for keyboard
+  - Largely replaced by USB
+
+- **Legacy Parallel**
+  - Obsolete
+    - Mostly replaced by USB
+  - For old printers
+  - 25-pin D-shaped connector
+
+- **Legacy Serial**
+  - Obsolete
+  - For various old low-speed devices, e.g. monitors
+  - 9-pin D-shaped connector
+  - Mostly replaced by USB
