@@ -3,7 +3,10 @@
 - [Device ports and peripherals](#device-ports-and-peripherals)
   - [Expansion Cards](#expansion-cards)
   - [Expansion Slot Types](#expansion-slot-types)
-    - [Other Slot Types](#other-slot-types)
+  - [Common Ports and Connectors](#common-ports-and-connectors)
+    - [USB (Universal Serial Bus)](#usb-universal-serial-bus)
+    - [USB Generations and Speeds](#usb-generations-and-speeds)
+    - [USB Connector Types](#usb-connector-types)
 
 ## Expansion Cards
 
@@ -12,7 +15,6 @@
 - Expansion cards have a row of metal pins for slot connection
 - An edge with a metal backplate fits into an opening in the PC case for port access
 
-- Types of Expansion Cards
 - **Video Card (Display Adapter)**
   - Provides ports to connect to an external display
   - Serves as a graphics processor interface
@@ -77,16 +79,62 @@
       - Indicate how much information is going through
 
 - **Mini-PCIe**
-  - Mostly used in laptops
+  - Found in laptops for smaller versions of standard expansion cards
+  - Replaced the older mini-PCI slots in newer laptop models
 
-<img src="images/pcie-slots.webp" width="500"/>
+    <img src="images/pcie-slots.webp" width="500"/>
 
-### Other Slot Types
+## Common Ports and Connectors
 
-- **Peripheral Component Interconnect (PCI)**:
-  - An older general-purpose slot type still present on many motherboards.
-  - Used for a variety of expansion cards.
+### USB (Universal Serial Bus)
 
-- **Mini-PCIe Slots**:
-  - Found in laptops for smaller versions of standard expansion cards.
-  - Replaced the older mini-PCI slots in newer laptop models.
+- Industry-standard connector for a wide variety of peripherals
+- Carries both data and power
+- Used to connect and charge small electronics
+
+### USB Generations and Speeds
+
+- Interchangeable and backwards compatible
+
+- **USB 2.0**:
+  - Regular USB
+    - Up to 1.5 Mbps (low speed) or 12 Mbps (full speed)
+    - Typically white ports
+  - Hi-Speed USB
+    - Up to 480 Mbps
+    - Sometimes colorcodded black to differentiate from regular USB
+
+- **USB 3.x**:
+  - USB 3.0 (SuperSpeed USB)
+    - Up to 5 Gbps
+    - Usually blue ports
+  - USB 3.1 (Gen 1, formerly USB 3.0)
+    - Up to 5 Gbps, same speed as USB 3.0
+  - USB 3.1 (Gen 2, SuperSpeed)
+    - Up to 10 Gbps
+  - USB 3.2
+    - ApproximUp to 20 Gbps
+
+
+  <img src="images/USB_ports_by_color.webp" width="500"/>
+
+### USB Connector Types
+
+- **Type-A**
+  - Standard rectangular USB ports on most PCs and USB cables
+- **Type-B**
+  - Near-square connector
+  - Used for large-sized peripherals like printers
+- **Mini-B**
+  - Smaller connector for devices like smartphones and cameras
+  - Less durable and less common now
+- **Micro-B**
+  - Compact connector for smaller devices
+  - Can have 2-part plug or 1-part plug
+- **Type-C**
+  - Compact, reversible connector
+  - Compatible with larger and smaller devices
+- **Lightning**
+  - Apple's proprietary charging device
+
+    <img src="images/usb-types.webp" width="500"/>

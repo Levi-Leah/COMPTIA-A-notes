@@ -9,6 +9,8 @@
       - [Program handling](#program-handling)
       - [Cache](#cache)
   - [Cooling](#cooling)
+    - [Passive cooling](#passive-cooling)
+    - [Active cooling](#active-cooling)
   - [RAM](#ram)
   - [Motherboards](#motherboards)
   - [Power Supplies](#power-supplies)
@@ -123,33 +125,34 @@
   - Refining CPU instruction processing increases efficiency
 - Even low-powered CPUs can generate harmful heat
 
----
+### Passive cooling
 
-- **Passive cooling**
-  - Does not use power or mechanical parts
-  - Less effective for very hot components
-  - **Heat Sinks**:
-    - Made of heat-conductive metal like aluminum
-    - Uses thermal paste to attach to the chip
-    - Designed with spikes or baffles to increase surface area
-    - Heat moves from chip to heat sink, then dissipates into air
-    - Case fans assist in removing hot air from the case
-- **Active cooling**
-  - Involves electrically powered components and mechanical parts
-  - **Fan cooling**
-    - **CPU Cooling**:
-      - Fan attached to CPU's heat sink
-      - Aims to circulate air and reduce CPU heat
-    - **Case Fans**:
-      - Cools the entire interior of the computer
-      - Additional fans may be placed strategically in the case
-  - **Liquid cooling**
-    - Efficient but risky due to liquid's electrical conductivity
-    - **Components**:
-      - Heat sinks (water blocks) attached to hot chips (CPU, GPU)
-      - Sealed tubing for liquid flow
-      - Pump circulates liquid, transferring heat to a reservoir
-      - Reservoir may have a fan-cooled radiator
+- Does not use power or mechanical parts
+- Less effective for very hot components
+- **Heat Sinks**:
+  - Made of heat-conductive metal like aluminum
+  - Uses thermal paste to attach to the chip
+  - Designed with spikes or baffles to increase surface area
+  - Heat moves from chip to heat sink, then dissipates into air
+  - Case fans assist in removing hot air from the case
+
+### Active cooling
+
+- Involves electrically powered components and mechanical parts
+- **Fan cooling**
+  - **CPU Cooling**:
+    - Fan attached to CPU's heat sink
+    - Aims to circulate air and reduce CPU heat
+  - **Case Fans**:
+    - Cools the entire interior of the computer
+    - Additional fans may be placed strategically in the case
+- **Liquid cooling**
+  - Efficient but risky due to liquid's electrical conductivity
+  - **Components**:
+    - Heat sinks (water blocks) attached to hot chips (CPU, GPU)
+    - Sealed tubing for liquid flow
+    - Pump circulates liquid, transferring heat to a reservoir
+    - Reservoir may have a fan-cooled radiator
 
 ---
 
