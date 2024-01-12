@@ -7,6 +7,8 @@
     - [USB (Universal Serial Bus)](#usb-universal-serial-bus)
       - [USB Connector Types](#usb-connector-types)
     - [Other Peripheral Ports and Connectors](#other-peripheral-ports-and-connectors)
+  - [Monitors](#monitors)
+    - [Monitor Types](#monitor-types)
 
 ## Expansion Cards
 
@@ -198,3 +200,50 @@
   - For various old low-speed devices, e.g. monitors
   - 9-pin D-shaped connector
   - Mostly replaced by USB
+
+## Monitors
+
+- Primary output device
+  - Touch screen is an input and output device
+- Displays results of input and computer processing
+- Back of the monitor has connections for video signal and power
+- Adjustment buttons typically located on the monitor's edge
+- On-screen menu for settings like brightness, contrast, color balance, size, and position
+
+### Monitor Types
+
+- **Flat-Panel Displays (FPD)**:
+  - Thin, lightweight, and low power consumption.
+  - Modern FPDs mostly use 16:9 or 16:10 widescreen aspect ratios
+
+  - **Liquid Crystal Display (LCD)**:
+    - <mark>Most common type of monitor</mark>
+    - Backlit layer of liquid crystal molecules
+    - Older models use cold cathode fluorescent lamps (CCFLs)
+    - Newer models use light-emitting diode (LED) backlights
+
+  - **Organic Light-Emitting Diode (OLED)**:
+    - Used in high-end devices, doesn't need a backlight
+
+  - **Plasma Displays**:
+    - Mostly for TVs, can connect to computers
+    - Uses phosphorous cells, wider viewing angle, susceptible to burn-in
+
+- **CRT Monitors**
+  - Cathode ray tube
+  - Bulky due to the large cathode ray tube
+  - Used a lot of electricity
+  - Uses electron guns to activate screen phosphors
+  - Obsolete but might appear in exam questions
+  - Contains hazardous materials
+    - Requires proper disposal
+
+- **Projectors**
+  - Projects image onto a screen
+  - Important qualities
+    - Brightness (lumens)
+    - Throw (image size at a distance)
+      - Short-throw projectors create large images from a short distance
+  - Projector lamps generate light and heat, have a fan for cooling
+    - Expensive to replace
+  - Modern projectors support wireless connectivity (Bluetooth, Wi-Fi)
