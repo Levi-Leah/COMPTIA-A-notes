@@ -20,7 +20,6 @@
     - [Printers](#printers)
       - [Fax Machines](#fax-machines)
     - [Multifunction Devices (MFDs)](#multifunction-devices-mfds)
-    - [Exam Tip](#exam-tip)
 
 ## Expansion Cards
 
@@ -455,7 +454,3 @@
 - Connection types
   - USB
   - Network (wired or wireless)
-
-### Exam Tip
-
-- Be familiar with older printer connection types like FireWire, parallel, and serial for the CompTIA IT Fundamentals exam.

@@ -53,6 +53,10 @@
     101101
     ```
 
+Yana: another way to transform decimal to binary is division by 2
+
+<img src="images/decimal-to-binary-conversion.png" width="500"/>
+
 ## Hexadecimal
 
 - base 16
